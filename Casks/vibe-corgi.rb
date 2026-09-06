@@ -1,8 +1,8 @@
 cask "vibe-corgi" do
-  version "0.1.0"
-  sha256 "87cd4c62fadf7cb1a1286e7c3e0cdb1df898047138a236f7a650411180bd56ba"
+  version "0.1.0,11"
+  sha256 "34470a8e0db422a712e1d5b9a62acd4c6ec993f1df5e6e5c4643c952c885909a"
 
-  url "https://vibecorgi.conylab.workers.dev/download/VibeCorgi.zip"
+  url "https://vibecorgi.conylab.workers.dev/download/VibeCorgi.dmg"
   name "Vibe Corgi"
   desc "Menubar desktop pet that mirrors Claude Code's live state"
   homepage "https://vibecorgi.conylab.workers.dev/"
