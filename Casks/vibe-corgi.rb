@@ -13,7 +13,7 @@ cask "vibe-corgi" do
     skip "No versioned download URL"
   end
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "Vibe Corgi.app"
 
