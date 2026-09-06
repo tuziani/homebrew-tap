@@ -1,11 +1,11 @@
 cask "vibe-corgi" do
   version "0.1.0"
-  sha256 "4b8c2fb07f7f23ccf33c7066bc9c835728beb145c769e9debc250955b064cf32"
+  sha256 "87cd4c62fadf7cb1a1286e7c3e0cdb1df898047138a236f7a650411180bd56ba"
 
-  url "https://runtcor.conylab.workers.dev/download/VibeCorgi.zip"
+  url "https://vibecorgi.conylab.workers.dev/download/VibeCorgi.zip"
   name "Vibe Corgi"
   desc "Menubar desktop pet that mirrors Claude Code's live state"
-  homepage "https://runtcor.conylab.workers.dev/"
+  homepage "https://vibecorgi.conylab.workers.dev/"
 
   # The download URL carries no version — every release overwrites the same path — so there is
   # nothing for livecheck to compare against. Bump `version` and `sha256` by hand on each release.
