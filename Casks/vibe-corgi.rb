@@ -2,10 +2,10 @@ cask "vibe-corgi" do
   version "0.1.0,12"
   sha256 "1273cbcc487625d6459f9522d7cdbebb272968f2f62e3c71a3eea83dc870f783"
 
-  url "https://vibecorgi.conylab.workers.dev/download/VibeCorgi.dmg"
+  url "https://vibecorgi.net/download/VibeCorgi.dmg"
   name "Vibe Corgi"
   desc "Menubar desktop pet that mirrors Claude Code's live state"
-  homepage "https://vibecorgi.conylab.workers.dev/"
+  homepage "https://vibecorgi.net/"
 
   # The download URL carries no version — every release overwrites the same path — so there is
   # nothing for livecheck to compare against. Bump `version` and `sha256` by hand on each release.
