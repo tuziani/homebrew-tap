@@ -1,6 +1,6 @@
 cask "vibe-corgi" do
-  version "0.1.1,16"
-  sha256 "892bad881abb9c3436fa835a660a85f01103cd8822561c1cf325450fa1eca046"
+  version "0.1.2,17"
+  sha256 "dd19fc0a0630844fcbc5fdc733d83878d414b3f1dd8fa566c36ab4d90b97ac2a"
 
   url "https://vibecorgi.net/download/VibeCorgi.dmg"
   name "Vibe Corgi"
